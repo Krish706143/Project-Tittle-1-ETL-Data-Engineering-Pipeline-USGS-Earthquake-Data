@@ -3,10 +3,15 @@
  Bronze layer (Azure Data Lake Storage– ADLS).
  
  Developed and executed transformations in Azure Databricks (PySpark) for Silver layer:
+ 
  o Flattenednested JSON fields (geometry.coordinates, properties.*).
+ 
  o Enforcedschemawithdata type casting for accuracy.
+ 
  o Handlednullvalues (defaulted numeric fields to 0).
+ 
  o Removedinvalid/mismatched values (lat/lon, mag, sig, elevation).
+ 
  o Deduplicated records, keeping the latest per id using the updated timestamp.
  
  Curated Gold layer datasets in Azure Databricks with advanced transformations:
