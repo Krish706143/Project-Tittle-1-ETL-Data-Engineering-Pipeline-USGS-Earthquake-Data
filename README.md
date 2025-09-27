@@ -4,7 +4,7 @@
  Bronze layer (Azure Data Lake Storage– ADLS).
  
  Developed and executed transformations in Azure Databricks (PySpark) for Silver layer:
- 
+    
  o Flattenednested JSON fields (geometry.coordinates, properties.*).
  
  o Enforcedschemawithdata type casting for accuracy.
@@ -26,8 +26,7 @@
  
  Skills used: Azure Data Lake Storage (ADLS), Azure Databricks, PySpark, Delta Lake, APIs, Parquet/CSV
 
-
-
+markdown
 To build this project, the following tools were used:
 
 Azure Databricks
