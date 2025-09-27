@@ -25,3 +25,19 @@
  ADLS.
  
  Skills used: Azure Data Lake Storage (ADLS), Azure Databricks, PySpark, Delta Lake, APIs, Parquet/CSV
+
+
+
+To build this project, the following tools were used:
+
+Azure Databricks
+Azure KeyVault
+Azure Active Directory
+Azure DataLake Gen 2
+Azure Blob Storage
+Azure Data Factory
+Azure SQL Database
+Azure Cost & Billing
+Pyspark
+SQL
+Git 
