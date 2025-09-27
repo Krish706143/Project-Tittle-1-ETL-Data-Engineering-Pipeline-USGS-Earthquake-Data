@@ -26,17 +26,28 @@
  
  Skills used: Azure Data Lake Storage (ADLS), Azure Databricks, PySpark, Delta Lake, APIs, Parquet/CSV
 
-markdown
+## Tools 
+
 To build this project, the following tools were used:
 
-Azure Databricks
-Azure KeyVault
-Azure Active Directory
-Azure DataLake Gen 2
-Azure Blob Storage
-Azure Data Factory
-Azure SQL Database
-Azure Cost & Billing
-Pyspark
-SQL
-Git 
+- Azure Databricks
+- Azure KeyVault
+- Azure Active Directory
+- Azure DataLake Gen 2
+- Azure Blob Storage
+- Azure Data Factory
+- Azure SQL Database
+- Azure Monitor
+- Azure Cost & Billing
+- Tableau
+- Pyspark
+- SQL
+- Git
+
+## Architecture
+
+Following is the architecture of the project.
+
+<p align='center'>
+  <img src='https://github.com/waqarg2001/earthquake-etl-pipeline/blob/main/Resources/architecture.png' height=385 width=1100>
+</p>  
